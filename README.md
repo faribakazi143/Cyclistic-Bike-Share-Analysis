@@ -1,2 +1,31 @@
-# Cyclistic-Bike-Share-Analysis
-Google Data Analyst Capstone | How do annual members and casual riders use Cyclistic bikes differently? (Python + Tableau + Excel)
+# Cyclistic Bike-Share Analysis
+
+**Google Data Analyst Capstone Project**  
+**Business Question:** How do annual members and casual riders use Cyclistic bikes differently?
+
+### Project Overview
+As part of the Google Data Analyst Certificate, I analyzed 12 months of real Cyclistic (Divvy) bike-share trip data (~4.5 million rides) in Chicago. The goal was to understand the key behavioral differences between casual riders and annual members and provide actionable marketing recommendations to help convert casual riders into annual members.
+
+### Tools Used
+- Python (Pandas, Matplotlib, Seaborn) – Data cleaning, analysis, and visualizations
+- Tableau Public – Interactive dashboard
+- Excel – PivotTables and charts
+
+### Key Insights
+- Casual riders take significantly longer rides (average **32.5 minutes**) compared to annual members (**13.2 minutes**)
+- Casual riders heavily use bikes on weekends (leisure/tourism)
+- Annual members show consistent weekday usage (commuting pattern)
+
+### Deliverables
+- [Python Jupyter Notebook](Cyclistic_Bike_Share_Analysis.ipynb)
+- [Excel Analysis with PivotTables](Cyclistic_Bike_Share_Analysis_Excel.xlsx)
+- [Interactive Tableau Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysisFaribaKazi/CyclisticDashboard)
+- Visualizations (PNG files)
+
+### Top 3 Recommendations
+1. Launch weekend-focused membership promotions targeting casual riders who take longer leisure rides.
+2. Promote annual membership as the convenient and cost-effective choice for weekday commuters.
+3. Use personalized digital campaigns (social media + email) based on rider behavior patterns.
+
+**Author:** Fariba Kazi  
+**LinkedIn:** https://www.linkedin.com/in/fariba-kazi-666260335/

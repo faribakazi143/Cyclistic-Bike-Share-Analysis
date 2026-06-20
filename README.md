@@ -20,7 +20,8 @@ As part of the Google Data Analyst Certificate, I analyzed 12 months of real Cyc
 - [Python Jupyter Notebook](Cyclistic_Bike_Share_Analysis.ipynb)
 - [Excel Analysis with PivotTables](Cyclistic_Bike_Share_Analysis_Excel.xlsx)
 - [Interactive Tableau Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysisFaribaKazi/CyclisticDashboard)
-- Visualizations:
+  
+### Visualizations
 
 **Rides by Hour of Day** — Annual members (red) show clear commuter peaks in the morning and late afternoon, while casual riders (gold) stay flatter throughout the day.
 
@@ -46,4 +47,4 @@ As part of the Google Data Analyst Certificate, I analyzed 12 months of real Cyc
 3. Use personalized digital campaigns (social media + email) based on rider behavior patterns.
 
 **Author:** Fariba Kazi  
-**LinkedIn:** https://www.linkedin.com/in/fariba-kazi-666260335/
+**LinkedIn:** www.linkedin.com/in/fariba-kazi

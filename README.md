@@ -10,8 +10,7 @@ As part of the Google Data Analytics Certificate, I analyzed 12 months of real C
 
 ## Tools Used
 * **Python** (Pandas, Matplotlib, Seaborn) — data cleaning, analysis, visualizations
-* **Tableau Public** — interactive dashboard (built on the full ~4.5M rides)
-* **Excel** — PivotTables and charts
+* **Tableau Public** — interactive dashboard
 
 ## Key Insights
 * Casual riders take much longer rides (avg **32.5 min**) than annual members (**13.2 min**)
@@ -20,7 +19,6 @@ As part of the Google Data Analytics Certificate, I analyzed 12 months of real C
 
 ## Deliverables
 * [Python Jupyter Notebook](https://github.com/faribakazi143/Cyclistic-Bike-Share-Analysis/blob/main/Cyclistic_Bike_Share_Analysis.ipynb)
-* [Excel Analysis with PivotTables](https://github.com/faribakazi143/Cyclistic-Bike-Share-Analysis/blob/main/Cyclistic_Bike_Share_Analysis_Excel.xlsx)
 * [Interactive Tableau Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysisFaribaKazi/CyclisticDashboard)
 
 ## Visualizations
